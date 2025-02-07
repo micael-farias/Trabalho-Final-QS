@@ -1,8 +1,8 @@
 # Trabalho-Final-QS
 
-##Equipe:
+## Equipe:
 - Erick Gabriel Ferreira Gaspar
 - Michael Farias de Lima
 
-##Code smells:
+## Code smells:
 - Many Non-Null Assertions
