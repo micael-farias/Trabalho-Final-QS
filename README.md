@@ -6,3 +6,5 @@
 
 ## Code smells:
 - Many Non-Null Assertions
+- Missing Union Types Abstraction
+
